@@ -1,0 +1,5 @@
+module SwiftSocket [system] {
+  header "/usr/include/CUDPSocket.h"
+  link "network"
+  export *
+}
